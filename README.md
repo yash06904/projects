@@ -1,5 +1,5 @@
 **Projects**
-- Scene Graph Generation:
+- **Scene Graph Generation**:
 Scene Graph (SG) classification predicts objects and the
 relations between the objects in the image given the bounding
 boxes, in this work we explore the applications of Graph
@@ -8,7 +8,7 @@ Scene Graph Classification, we evaluate the performance
 on the visual genome data set.
 
 
-- Federated Learning by matching activation statistics:
+- **Federated Learning by matching activation statistics**:
 In this work we propose a new regularization method at client side for training
 neural networks in a Federated setup, where server samples the the edge models for
 training and these updates are aggregated at server, different from prior works this
